@@ -1,0 +1,9 @@
+Fireballs
+Damage reduced from 5- 3%
+
+Firebrand:
+	-changed to an on-the-fly killmove.
+		-reason being the old one was outclassed by dair in the air, and useless on 		ground.
+
+Side Smash
+Sweetspot growth- 5C- 50 (This was killing nearly 30% sooner than his non sweetspot. Making it Ike category smash strength. While still powerful, it no longer kills in the 70s.)

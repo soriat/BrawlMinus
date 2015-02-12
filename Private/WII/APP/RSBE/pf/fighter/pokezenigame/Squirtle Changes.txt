@@ -1,0 +1,8 @@
+Midair Jump
+Heavy Armor removed
+
+Dash Attack
+Super Armor removed
+
+Up Smash
+Growth decreased by 10 on two strongest hitboxes? (After finding that dash attack true combos into this move in certain conditions, it proves to be too powerful to be so easy to land.

@@ -1,0 +1,3 @@
+SonicBrawler:
+
+Pikmin explosion damage 8 -> 5

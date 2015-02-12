@@ -1,0 +1,42 @@
+FIXES
+
+Ike had a large amount of issues with his NS mode not activating properly. There was also the accidental removal of Aether healing Ike. Ike can now heal in normal or NS mode, but he can't go into the negative percents. On top of that, there were many complaints about NS mode being inferior with Ike losing his counter. Players felt like they were being punished for doing well, and the drawbacks of NS mode were originally in place due to not losing it on death and being able to activate it at will. These drawbacks have been removed.
+
+Ike Changes
+
+No Sympathy Mode no longer damages Ike.
+
+Side Smash- Growth on windboxes & heatwaves decreased by 10.
+Growth on normal Hitboxes decreased by 22. (Ike was killing mid stage below 50% on midweights. This was okay before his startup was sped up. They now kill about 20% later.)
+
+NS Side Smash- Growth on hitboxes decreased by 19. (NS Mode's side smash now kills 10% earlier than the normal one.)
+
+Down Smash- given dust back in normal mode so that the attack doesn't look as weak.
+
+Down Smash NS- Ike had an extra hitbox coming out after the flames of his second slash that could add an extra 9%. This has been removed.
+
+Uair- He can no longer use his Ikecopter multiple times per air time as it was netting him free kills at obscenely low percents and allowing him to reach the top blastline without using a recovery move. It has also had the height gained toned down a small amount.
+
+Quickdraw
+Hit- endlag sped up 1.5%
+Dash- dodge cancel added.
+
+Aether
+-Heals Ike up to 4% so long as his health is above 0. Will not heal him into negative percents.
+-Healing Gfx on Aether only shows up on hit if Ike actually heals from the attack.
+-New NS Attack: Aetherial Eruption
+Ike can choose to unleash the power of his eruption during the final hitbox of Aether to make for a devastating finisher. It deals high damage on him as well as his enemy. (Activate by holding B during Aether's landing.)
+
+NS Counter
+-Damage increased by 5%
+-Growth increased from 5E- 64 (by 6)
+-Hitlag increased from 1- 1.3
+-Ability to choose between stronger counter or Flourish.
+-Reworked NS ATTACK: Flourish of No Sympathy.
+
+Ike does a flurry of slashes followed up with an eruption. This move can only be done on the ground and deals high self-damage (20%). 
+Ike can hold the Eruption and cancel out of it if he chooses, but doing so forfeits NS mode although he won't take the self damage. (Activated by Holding B during a successful counter. Continuing to hold down B during the eruption will hold the eruption.)
+
+Side Taunt- During NS mode he no longer says "I fight for my friends." He instead says "You'll get no sympathy from me."
+New NS Attack: Razing Eruption
+Ike dashes across the field and will leave a trail of explosions behind him. If he hits an enemy with the dash they become stunned and unable to avoid the eruptions.

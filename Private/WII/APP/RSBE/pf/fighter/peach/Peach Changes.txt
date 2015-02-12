@@ -1,0 +1,15 @@
+Side Smash Hi- Angle changed from 50 to 7D. This move was doing the same things her Ftilt but weaker. Now it serves it's own purpose.
+
+Nair- Sweetspot damage reduced 1%, growth reduced 2%. (Was killing only 2% later than her fair which is supposed to be a much more powerful move as it comes out slower.)
+
+Back Throw- Endlag sped up 1.5x. Damage decreased from 11-8. Growth increased by 5 (28-2D Hex).
+
+Up Throw- Allow interrupt moved 9 frames ahead. Base KB reduced from 46-30 hex
+
+Down Throw- Damage increased from 8-11. Endlag sped up 1.3x.
+
+Final Smash:
+	Animation now cancelable after the first hitbox ends
+	damage increased
+	spawns a bom-omb on the frame the hitbox ends/is cancelable
+		-note that ending the FS also ends the rain of peaches

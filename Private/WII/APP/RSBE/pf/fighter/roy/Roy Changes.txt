@@ -1,0 +1,65 @@
+Roy was unable to make the most of his aggressive playstyle because he lacked a proper approach. His new Air Dash not only aids his recovery, but it helps him to keep the pressure on his foes and maximize his game. Losing his DED finisher in the air wasn't a loss however, as his aerial Fire Blade has been tuned to offer the same effect. The ability to charge Fire Blade makes it even more deadly than his old attack ever was.
+
+Universal Roy Adjustments
+
+All attacks
+Sweetspot offset adjusted. From 2.6 - 3.2
+Sourspot offset adjusted. from 7.4 - 8.2
+
+Hitboxes on opposite arm moved to body and size increased from 3-5. Trajectory on these hitboxes now use the Sakurai angle on all moves but up tilt and aerials.
+
+Entry
+Gfx now shows
+
+Spot dodge animation changed to melee dodge.
+
+Walk animations modified.
+
+Normals
+
+Side Tilt
+0.8 FSM added when last collision terminates, adding slightly more endlag.
+
+Up Tilt
+Given flame sweetspot. Initial hit Bkb increased 16, Growth decreased 28. Now works as a combo starter up to mid-high percents.
+
+Side Smash
+Start animation Sword Trail fixed. 1.4 FSM added from frame 12-25.
+
+Up Smash
+Animation made more vertical on first swing so that it can hit enemies above him.
+1.4x FSM from frame 34-52.
+
+Down Smash
+2x FSM from frame 17-32.
+
+Nair
+Made into two hits. Damage and KB adjusted to compensate. Startup sped up, time between hits slowed down. Slightly less endlag.
+
+Dair
+Damage on all hitboxes reduced by 3%. With air dash added he can line up dairs much easier than before so they don't need as much power. Straight down sweetspot size decreased by 1.
+
+Fire Blade
+Aerial version given angle from old air side B.
+
+DED Hi2
+Sfx fixed. Wkb added to make the attack fixed. Bkb increased so that it more reliably connects into Hi3.
+
+DED Low Finisher
+Voice clips changed and no longer overlap.
+
+Air Side B made into air dash.
+
+Air Dash
+Roy uses fire to propel himself through the air at a high speed. During this dash he is able to attack, jump, walljump, dodge, throw items, or grab an edge to cancel it.
+
+Blazer
+Auto sweetspots edges. Heavy Armor removed.
+
+Counter
+Invincibility frames increased to from 6-10.
+Voice clip changed.
+Sword trail fixed.
+
+Final Smash
+SFX fixed, Sword Trail fixed.

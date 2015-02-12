@@ -1,0 +1,6 @@
+Ivy had strangely powerful ledge attacks that could even one hit shield break. These have been reverted to Vbrawl as they should have been.
+
+Uair 
+Landing lag decreased slightly. From 1.3- 1.5
+
+Poison added back to sweetspot. (Now that Ivy's sweetspot is smaller and more difficult to hit with it's not as easy to stack poison on top of poison for massive amounts of damage.)

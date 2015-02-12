@@ -1,0 +1,2 @@
+Arrows now cancelable on startup, in the air
+	-sends Pit into airtrip, which is cancelable into A moves, to prevent article stacking. 

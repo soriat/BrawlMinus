@@ -1,0 +1,6 @@
+Warlock Punch, Falcon Punch, Firebrand, and Thunderhand are now 3.5 versions.
+
+Toon Link's Bow now has speed. Still needs magical arrows.
+
+Side Smash- Sweetspot damage reduced 2%, timer reduced by 3 frames.
+Growth reduced (60- 5b) by 5.

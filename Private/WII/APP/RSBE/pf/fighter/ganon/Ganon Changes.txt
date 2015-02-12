@@ -1,0 +1,22 @@
+Utilt replaced with a magical uppercut. It multihits and sets up giving Ganon a reliable low percent ground to air attack with good range and low ending lag. Not good for KOing however.
+
+Down Smash- replaced with his old Utilt. Ganon is now able to charge his explosive heel drop and release it when he actually needs to. Though it doesn't cover the entire stage anymore. It also causes a dark geyser that also hits behind him, making for a good surprise on his foes.
+
+
+
+Warlock Punch (Neutral B) Aerial
+On hit cancel added.
+
+Wizard's Foot (Down B) Grounded
+Invincibility removed from arm and shoulder.
+Invincibility moved from startup to frame 6.
+Slowed FSMs to normal adding 3 frames of start up to the attack.
+Damage reduced by 2%.
+
+Wizard's Foot (Down B) Aerial
+Invincibility added to foot and leg after first 6 frames. Terminates with hitboxes.
+Sweetspot extended to cover duration of hitboxes.
+Landing damage increased by 2%.
+
+Dark Dive
+Graphics added to display claw attack afterwards.

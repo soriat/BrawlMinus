@@ -1,0 +1,5 @@
+Metaknight's pummel was originally healing him into the negative percents.
+
+His side smash also had an error in the offset causing the low version to not hit.
+
+fThrow will no longer give the foe a beam sword

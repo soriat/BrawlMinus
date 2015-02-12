@@ -1,0 +1,3 @@
+DK had a strange thing with his charging animation for his neutral B. He was the only character who couldn't go from charging to shield without a large waiting period putting him at risk thanks to how he works. This risk was even larger in the air which wasn't very helpful to DK. 
+
+This has been fixed.

@@ -1,0 +1,16 @@
+Marth has been given a slight aesthetic makeover. He has lost elemental attributes in Dancing Blade on all but lw 3, and his sword glows have been switched around according to the type of attack he deals.
+
+Red= Removed. He gave it to Roy.
+
+Blue= Aerials and Tilts
+Green= Smashes
+Purple= Specials
+
+Other small Marth changes.
+Dancing Blade High knockback has been adjusted to ensure it KOs at the same percent as before.
+
+Side Smash Lw
+Now has set momentum.
+
+Shield Breaker
+Sword trail stays for the duration of the active hitboxes.

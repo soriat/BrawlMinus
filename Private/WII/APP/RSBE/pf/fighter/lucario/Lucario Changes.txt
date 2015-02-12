@@ -1,0 +1,33 @@
+Lucario has been toned down in a manner that won't affect his playstyle too much. He has lost some of the excess range on his grabs. The attacks that he can safely spam no longer chain into themselves for as long and moves that were killing too early have been reasonably weakened.
+
+Fixes
+Double Team 
+Propely changes into instant mode at 75%.
+
+Up Taunt
+Now damages him 15% instead of 14%.
+
+Balancing Tweaks
+Fair
+Growth increased from 64- 6a (by 6)
+
+Dair
+Base kb on first hit decreased from 56 to 42 Hex (reduced by 20)
+
+Grab
+Most distant hitbox move closer to lucario by 2 (8-6)
+
+Dash Grab
+Most distant hitbox moved closer to Lucario by 1 (8-7)
+
+Pivot Grab
+most distant hitbox made equal to other grabs. (14-8)
+
+Pummel
+damage reduced by 1.
+
+Back Throw
+Growth decreased from 41-32 Hex. (reduced by 15)
+
+Side B Close Combat
+Growth reduced 5. (CC true combos out of jabs, so it killing ridiculously early while Lucario was at 75% was a bit insane.)
