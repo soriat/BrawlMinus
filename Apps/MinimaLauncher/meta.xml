@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<app version="1.0">
+<app version="1.2">
 	<name>MinimaLauncher</name>
 	<coder>Glitch</coder>
-	<release_date>20140510</release_date>
+	<version>v1.1</version>
+<release_date>20140730000000</release_date>
 <short_description>Minimal Disc Booter</short_description>
 <long_description>MinimaLauncher boots whatever disc is in the slot for Wii or Gamecube.
 Built in gameconfig.txt for Brawl and Kirby (SUKE01).
 Supports Cheats in SD:/codes/
 Supports Gameconfig in SD:/gameconfig.txt
-
-Copyright (C) 2012-2014 FIX94
-Credit to tueidj for vWii Widescreen Patch!
-Credit to crediar for kirby's gameconfig
-
 </long_description>
 <ahb_access />
 </app>

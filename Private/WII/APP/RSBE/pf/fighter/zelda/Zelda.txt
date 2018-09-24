@@ -1,9 +1,0 @@
-Zelda had an issue with her down tilt's hitbox and graphic effect. The move was repurposed to not be as safe and rewarding in the previous update.
- However, it wasn't able to carry out the task of on stage ledge guarding better than her side smash. 
-This has resulted in an angle change which launches opponents upward and allows her to follow with aerials and more. 
-The hitbox has been moved up slightly to allow onstage hits and complements her kit very well.
-
-B- Nayru's Love
-Modified to allow Zelda to move forward or backward while using it while on the ground slightly more distance than her dodge.
-
-Interrupt is 6 frames sooner.

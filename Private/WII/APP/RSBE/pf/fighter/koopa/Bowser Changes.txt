@@ -1,1 +1,0 @@
-Super Armor restored Side Smash, Side Smash Charge, and Dash Attack. Change to dair losing armor during endlag has not been undone.

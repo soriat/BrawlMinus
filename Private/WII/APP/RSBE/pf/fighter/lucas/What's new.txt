@@ -1,6 +1,0 @@
-Zair cancel fixed, no longer has to wait 16 frames after hitting to cancel
-
-Dair damage 20 > 16
-	last hit always spikes now
-
-Uair kbg increased to compensate for Ice changes

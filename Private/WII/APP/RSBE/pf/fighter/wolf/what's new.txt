@@ -1,8 +1,0 @@
-Fallspeed 2.55 > 2.45
-Meteor cancel window 25 > 20
-
-up-B kbg lowered slightly (prevents early kills)
-
-Laser (gfx) growth and kbg increased on full growth (about 50 frames)
-	Lasers traded for slow lasers
-	

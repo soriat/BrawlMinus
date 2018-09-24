@@ -1,6 +1,0 @@
-2nd Gyro removed.
-Side Smash Laser removed.
-3rd Jump removed.
-
-Dtilt
-Trip rate decreased from 80% to 40%. All other trips in Minus tend to have either less damage, slower interrupt speeds, or less range. ROB was packing a trip that had the best of all worlds.

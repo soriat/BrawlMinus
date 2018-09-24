@@ -1,7 +1,0 @@
-﻿Changelist
-
-Falcon’s Jab has now been reworked. AAA = no infinite jab , AAZ = infinite jab INSTEAD of the third hit (knee).
-
-Falcon Punch aerial momentum restored. Falcon no longer plummets to his doom when using the move in the air.
-
-Forward momentum added to Ground Punch (0.2), and Aerial Punch (0.1), to help connectivity. Hitlag reverted to MAX 1.0 speed (3,3,3,6)
